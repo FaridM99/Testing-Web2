@@ -11,3 +11,6 @@ I would like to test Web2 repository created by Farid Mehdiyev for the use of th
 
 
 # Another commit !
+
+# I have changed from Windows to the Mac. Some issues occured
+
