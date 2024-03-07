@@ -17,8 +17,9 @@
 // in the localhost:8080/h2-console i can observe that i listed all the sql questies correct order with their images
 
 
-
-
+// 3
+// Creating repository for the read and write in the database
+// Created Services file and it has ProductsServices interface as a repository
 
 
 
