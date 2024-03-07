@@ -21,7 +21,11 @@
 // Creating repository for the read and write in the database
 // Created Services file and it has ProductsServices interface as a repository
 
-
+// 4
+// Creating controller for the allow us CRUD operations on products
+// Creating new package and call it as a Controllers and ProductsController class
+// Decorating it as a @Controller and @RequestMapping
+// @Autowired annotation for the ProductsRepository repo;
 
 package com.TestingCrud.TestingCrud.models;
 
